@@ -1,0 +1,100 @@
+/etc/lsb-base-logging.sh: line 22: /dev/console: No such file or directory
+ * Doing Wacom setup...
+/etc/lsb-base-logging.sh: line 22: /dev/console: No such file or directory
+/etc/lsb-base-logging.sh: line 22: /dev/console: No such file or directory
+   ...done.
+ * Running local boot scripts (/etc/rc.local)
+/etc/lsb-base-logging.sh: line 22: /dev/console: No such file or directory
+/etc/lsb-base-logging.sh: line 22: /dev/console: No such file or directory
+   ...done.
+ _   _                      _ ___________  _____     _ 
+| | | |                    | |_   _| ___ \/  __ \   | |
+| | | |_ __  _ __ ___  __ _| | | | | |_/ /| /  \/ __| |
+| | | | '_ \| '__/ _ \/ _` | | | | |    / | |    / _` |
+| |_| | | | | | |  __/ (_| | |_| |_| |\ \ | \__/\ (_| |
+ \___/|_| |_|_|  \___|\__,_|_|\___/\_| \_| \____/\__,_|
+                           v3.2.8.1
+                     using TRE 0.7.5 (LGPL)
+                     using libcurl/7.18.0 OpenSSL/0.9.8g zlib/1.2.3.3 libidn/1.1
+
+* Loading IRCd configuration ..
+* Configuration loaded without any problems ..
+* Loading tunefile..
+* Dynamic configuration initialized .. booting IRCd.
+---------------------------------------------------------------------
+/etc/lsb-base-logging.sh: line 22: /dev/console: No such file or directory
+ * Starting deferred execution scheduler atd
+   ...done.
+/etc/lsb-base-logging.sh: line 22: /dev/console: No such file or directory
+ * Starting periodic command scheduler crond
+/etc/lsb-base-logging.sh: line 22: /dev/console: No such file or directory
+/etc/lsb-base-logging.sh: line 22: /dev/console: No such file or directory
+   ...done.
+Starting distccd
+ * Starting MySQL database server mysqld
+/etc/lsb-base-logging.sh: line 22: /dev/console: No such file or directory
+/etc/lsb-base-logging.sh: line 22: /dev/console: No such file or directory
+   ...done.
+ * Checking for corrupt, not cleanly closed and upgrade needing tables.
+/etc/lsb-base-logging.sh: line 22: /dev/console: No such file or directory
+/etc/lsb-base-logging.sh: line 22: /dev/console: No such file or directory
+ * Configuring network interfaces...
+/etc/lsb-base-logging.sh: line 22: /dev/console: No such file or directory
+   ...done.
+/etc/lsb-base-logging.sh: line 22: /dev/console: No such file or directory
+ * Starting portmap daemon...
+/etc/lsb-base-logging.sh: line 22: /dev/console: No such file or directory
+   ...done.
+/etc/lsb-base-logging.sh: line 22: /dev/console: No such file or directory
+ * Starting Postfix Mail Transport Agent postfix
+/etc/lsb-base-logging.sh: line 22: /dev/console: No such file or directory
+   ...done.
+/etc/lsb-base-logging.sh: line 22: /dev/console: No such file or directory
+ * Starting PostgreSQL 8.3 database server
+/etc/lsb-base-logging.sh: line 22: /dev/console: No such file or directory
+   ...done.
+/etc/lsb-base-logging.sh: line 22: /dev/console: No such file or directory
+ * Starting ftp server proftpd
+/etc/lsb-base-logging.sh: line 22: /dev/console: No such file or directory
+   ...done.
+Starting Samba daemons: nmbd smbd.
+Starting network management services: snmpd.
+/etc/lsb-base-logging.sh: line 22: /dev/console: No such file or directory
+ * Starting OpenBSD Secure Shell server sshd
+/etc/lsb-base-logging.sh: line 22: /dev/console: No such file or directory
+   ...done.
+/etc/lsb-base-logging.sh: line 22: /dev/console: No such file or directory
+ * Starting system log daemon...
+/etc/lsb-base-logging.sh: line 22: /dev/console: No such file or directory
+   ...done.
+/etc/lsb-base-logging.sh: line 22: /dev/console: No such file or directory
+ * Starting Tomcat servlet engine tomcat5.5
+/etc/lsb-base-logging.sh: line 22: /dev/console: No such file or directory
+   ...done.
+/etc/lsb-base-logging.sh: line 22: /dev/console: No such file or directory
+ * Starting internet superserver xinetd
+/etc/lsb-base-logging.sh: line 22: /dev/console: No such file or directory
+   ...done.
+/etc/lsb-base-logging.sh: line 22: /dev/console: No such file or directory
+ * Doing Wacom setup...
+/etc/lsb-base-logging.sh: line 22: /dev/console: No such file or directory
+   ...done.
+/etc/lsb-base-logging.sh: line 22: /dev/console: No such file or directory
+ * Running local boot scripts (/etc/rc.local)
+/etc/lsb-base-logging.sh: line 22: /dev/console: No such file or directory
+   ...done.
+ _   _                      _ ___________  _____     _ 
+| | | |                    | |_   _| ___ \/  __ \   | |
+| | | |_ __  _ __ ___  __ _| | | | | |_/ /| /  \/ __| |
+| | | | '_ \| '__/ _ \/ _` | | | | |    / | |    / _` |
+| |_| | | | | | |  __/ (_| | |_| |_| |\ \ | \__/\ (_| |
+ \___/|_| |_|_|  \___|\__,_|_|\___/\_| \_| \____/\__,_|
+                           v3.2.8.1
+                     using TRE 0.7.5 (LGPL)
+                     using libcurl/7.18.0 OpenSSL/0.9.8g zlib/1.2.3.3 libidn/1.1
+
+* Loading IRCd configuration ..
+* Configuration loaded without any problems ..
+* Loading tunefile..
+* Dynamic configuration initialized .. booting IRCd.
+---------------------------------------------------------------------

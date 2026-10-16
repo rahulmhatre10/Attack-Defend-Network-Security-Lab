@@ -1,0 +1,19 @@
+lo               UNKNOWN        127.0.0.1/8 ::1/128 
+eth0             UP             192.168.181.128/24 fe80::20c:29ff:fe83:5ba7/64 
+br-339414195aeb  UP             10.5.5.1/24 fe80::42:58ff:feee:4a5b/64 
+br-355ee7945a88  UP             192.168.0.1/24 fe80::42:62ff:fe9e:f028/64 
+br-internal      UP             10.6.6.1/24 fe80::42:91ff:fe9f:79f7/64 
+docker0          UP             172.17.0.1/16 fe80::42:e7ff:fe7f:bddb/64 
+veth828ca9e@if7  UP             fe80::8899:e8ff:feaf:2bad/64 
+vethfa2134d@if9  UP             fe80::e477:13ff:fe7a:198/64 
+vetha8a89ab@if11 UP             fe80::9cf5:62ff:fed7:486c/64 
+veth621dee2@if13 UP             fe80::7cbd:9aff:fe25:752d/64 
+vethc6afbcd@if15 UP             fe80::d0a5:1bff:fe41:fb16/64 
+vethc295fc2@if17 UP             fe80::fc5a:7ff:fe9d:8ffb/64 
+veth56210b6@if19 UP             fe80::e879:73ff:fe54:705e/64 
+veth535edee@if21 UP             fe80::9089:72ff:fede:8935/64 
+veth810f8ce@if23 UP             fe80::c2b:1bff:fe89:7a93/64 
+veth4699297@if25 UP             fe80::647b:1bff:fe97:8365/64 
+veth499fabe@if27 UP             fe80::4cff:d6ff:feae:5afd/64 
+vetha7725a5@if29 UP             fe80::d894:2bff:fe61:4113/64 
+veth4f31ba8@if31 UP             fe80::f870:1bff:fe70:f9ab/64 

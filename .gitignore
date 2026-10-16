@@ -1,0 +1,8 @@
+Attack-Defend-Portfolio.zip
+*.zip
+captures/*.pcap
+captures/*.pcapng
+.env
+.env.*
+*.key
+*.pem

@@ -1,0 +1,7 @@
+NETWORK ID     NAME             DRIVER    SCOPE
+355ee7945a88   DMZ-SA           bridge    local
+339414195aeb   SA               bridge    local
+02dcc26ef6ed   bridge           bridge    local
+78663494c763   host             host      local
+aa3d54d32a34   none             null      local
+459a9e375d36   root_websploit   bridge    local
